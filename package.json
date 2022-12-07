@@ -1,0 +1,15 @@
+{
+    "name": "app-front-end",
+    "version": "1.0.0",
+    "description": "App treinamento Infra",
+    "main": "app.js",
+    "scripts": {
+        "teste": "echo exit 1"
+    },
+    "author": "João Ezequiel Lima",
+    "license": "ESC",
+    "dependencies": {
+        "express": "4.17.1",
+        "mysql": "^2.18.1"
+    }
+}
