@@ -10,6 +10,7 @@
     "license": "ESC",
     "dependencies": {
         "express": "4.17.1",
+        "mongodb": "^4.12.1",
         "mysql": "^2.18.1"
     }
 }
